@@ -1,0 +1,30 @@
+AGILE MANIFESTO
+http://agilemanifesto.org/history.html
+https://www.scrummanager.net/bok/index.php?title=El_manifiesto_%C3%A1gil
+
+AGILE CLASSROM
+https://medium.com/laboratoria/the-agile-classroom-embracing-an-agile-mindset-in-education-ae0f19e801f3
+
+1. ¿Cuáles son los 4 valores principales de Agile? (puedes marcar más de 1 opción de respuesta) *
+
+-Software funcionando sobre documentación extensiva
+-Individuos e interacciones sobre procesos y herramientas
+-Respuesta ante el cambio sobre seguir un plan
+-Colaboración con el cliente sobre negociación contractual
+
+2. La mayor prioridad de Agile es: *
+-Satisfacer al cliente mediante la entrega temprana de software
+
+3. ¿Por qué es importante adaptarnos al cambio? *
+-Para proporcionar ventaja competitiva al cliente
+
+4. Nos enfocamos en personas e interacciones, eso implica... 
+-Individuos motivados
+-Conversaciones cara a cara
+-Estar en constante comunicación con el cliente
+-Todo el equipo trabaja junto durante todo el proceso
+
+5. Algunos principios ágiles son (puedes marcar más de 1 opción de respuesta): *
+-Ritmo constante
+-La simplicidad, o el arte de maximizar la cantidad de trabajo no realizado
+-Autoorganización
